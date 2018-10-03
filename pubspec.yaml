@@ -1,5 +1,8 @@
 name: flutter_plugins_assets
 description: Images and fonts for the Flutter plugins
-version: 0.0.1
-author: Fidelisa Authors <yann@fidelisa.com>
-homepage: http://www.fidelisa.com
+version: 0.0.2
+author: Yann-Cyril Pelud <yann@fidelisa.com>
+homepage: https://github.com/fidelisa/flutter_plugins
+
+environment:
+  sdk: ">=1.19.0 <3.0.0"
